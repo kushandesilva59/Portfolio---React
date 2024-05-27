@@ -1,5 +1,6 @@
 @import '../../styles/contants.scss';
 
+
 .wrapper{
     position: relative;
     z-index: 99;
@@ -8,6 +9,7 @@
     position: sticky; 
     top: 0;
     transition: all 300ms ease;
+    
 
     .container{
         position: relative;
